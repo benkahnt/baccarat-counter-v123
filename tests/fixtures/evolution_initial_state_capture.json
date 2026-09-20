@@ -1,0 +1,548 @@
+[
+  {
+    "id": "PeryaSpeedBac001",
+    "name": "Dynasty Speed Baccarat 1",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 10,
+      "playerWins": 3,
+      "bankerWins": 7,
+      "ties": 0,
+      "playerPairs": 1,
+      "bankerPairs": 0
+    },
+    "historyLength": 10
+  },
+  {
+    "id": "PeryaSpeedBac002",
+    "name": "Dynasty Speed Baccarat 2",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 53,
+      "playerWins": 28,
+      "bankerWins": 22,
+      "ties": 3,
+      "playerPairs": 6,
+      "bankerPairs": 3
+    },
+    "historyLength": 53
+  },
+  {
+    "id": "qgqrv4asvltnvuty",
+    "name": "Speed Baccarat X",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 22,
+      "playerWins": 7,
+      "bankerWins": 14,
+      "ties": 1,
+      "playerPairs": 1,
+      "bankerPairs": 2
+    },
+    "historyLength": 22
+  },
+  {
+    "id": "rdjda6zq7jdyo6cs",
+    "name": "Speed Baccarat 4",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 42,
+      "playerWins": 20,
+      "bankerWins": 18,
+      "ties": 4,
+      "playerPairs": 3,
+      "bankerPairs": 3
+    },
+    "historyLength": 42
+  },
+  {
+    "id": "tzx2k7gqydqqq9wo",
+    "name": "Dynasty Speed Baccarat 15",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 24,
+      "playerWins": 13,
+      "bankerWins": 11,
+      "ties": 0,
+      "playerPairs": 4,
+      "bankerPairs": 1
+    },
+    "historyLength": 24
+  },
+  {
+    "id": "PeryaSpeedBac006",
+    "name": "Dynasty Speed Baccarat 6",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 6,
+      "playerWins": 2,
+      "bankerWins": 3,
+      "ties": 1,
+      "playerPairs": 1,
+      "bankerPairs": 0
+    },
+    "historyLength": 6
+  },
+  {
+    "id": "oytmvb9m1zysmc44",
+    "name": "Baccarat A",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 5,
+      "playerWins": 0,
+      "bankerWins": 4,
+      "ties": 1,
+      "playerPairs": 1,
+      "bankerPairs": 0
+    },
+    "historyLength": 5
+  },
+  {
+    "id": "PeryaSpeedBac004",
+    "name": "Dynasty Speed Baccarat 4",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 63,
+      "playerWins": 26,
+      "bankerWins": 34,
+      "ties": 3,
+      "playerPairs": 6,
+      "bankerPairs": 2
+    },
+    "historyLength": 63
+  },
+  {
+    "id": "ndgvz5mlhfuaad6e",
+    "name": "Speed Baccarat D",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 66,
+      "playerWins": 29,
+      "bankerWins": 29,
+      "ties": 8,
+      "playerPairs": 1,
+      "bankerPairs": 2
+    },
+    "historyLength": 66
+  },
+  {
+    "id": "obj64qcnqfunjelj",
+    "name": "Speed Baccarat J",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 48,
+      "playerWins": 26,
+      "bankerWins": 18,
+      "ties": 4,
+      "playerPairs": 1,
+      "bankerPairs": 2
+    },
+    "historyLength": 48
+  },
+  {
+    "id": "o4kymodby2fa2c7g",
+    "name": "Speed Baccarat S",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 45,
+      "playerWins": 15,
+      "bankerWins": 25,
+      "ties": 5,
+      "playerPairs": 5,
+      "bankerPairs": 3
+    },
+    "historyLength": 45
+  },
+  {
+    "id": "tzx4afwq7bqqq3ul",
+    "name": "Dynasty Speed Baccarat 12",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 39,
+      "playerWins": 12,
+      "bankerWins": 25,
+      "ties": 2,
+      "playerPairs": 4,
+      "bankerPairs": 5
+    },
+    "historyLength": 39
+  },
+  {
+    "id": "PeryaSpeedBac008",
+    "name": "Dynasty Speed Baccarat 8",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 67,
+      "playerWins": 23,
+      "bankerWins": 37,
+      "ties": 7,
+      "playerPairs": 7,
+      "bankerPairs": 7
+    },
+    "historyLength": 67
+  },
+  {
+    "id": "qsf63ownyvbqnz33",
+    "name": "Speed Baccarat Z",
+    "phase": "resolved",
+    "stats": {
+      "gameCount": 56,
+      "playerWins": 24,
+      "bankerWins": 23,
+      "ties": 9,
+      "playerPairs": 4,
+      "bankerPairs": 3
+    },
+    "historyLength": 56
+  },
+  {
+    "id": "ovu5eja74ccmyoiq",
+    "name": "Speed Baccarat N",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 57,
+      "playerWins": 31,
+      "bankerWins": 18,
+      "ties": 8,
+      "playerPairs": 4,
+      "bankerPairs": 2
+    },
+    "historyLength": 57
+  },
+  {
+    "id": "PeryaSpeedBac003",
+    "name": "Dynasty Speed Baccarat 3",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 52,
+      "playerWins": 23,
+      "bankerWins": 26,
+      "ties": 3,
+      "playerPairs": 4,
+      "bankerPairs": 6
+    },
+    "historyLength": 52
+  },
+  {
+    "id": "leqhceumaq6qfoug",
+    "name": "Speed Baccarat A",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 54,
+      "playerWins": 24,
+      "bankerWins": 25,
+      "ties": 5,
+      "playerPairs": 3,
+      "bankerPairs": 5
+    },
+    "historyLength": 54
+  },
+  {
+    "id": "lv2kzclunt2qnxo5",
+    "name": "Speed Baccarat B",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 50,
+      "playerWins": 18,
+      "bankerWins": 27,
+      "ties": 5,
+      "playerPairs": 4,
+      "bankerPairs": 4
+    },
+    "historyLength": 50
+  },
+  {
+    "id": "qsf7bpfvyvbqolwp",
+    "name": "Speed Baccarat 3",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 41,
+      "playerWins": 18,
+      "bankerWins": 18,
+      "ties": 5,
+      "playerPairs": 5,
+      "bankerPairs": 3
+    },
+    "historyLength": 41
+  },
+  {
+    "id": "tzxl0t9z3cqqqerp",
+    "name": "Dynasty Speed Baccarat 16",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 38,
+      "playerWins": 17,
+      "bankerWins": 16,
+      "ties": 5,
+      "playerPairs": 2,
+      "bankerPairs": 7
+    },
+    "historyLength": 38
+  },
+  {
+    "id": "qsf65xtoyvbqoaop",
+    "name": "Speed Baccarat 1",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 30,
+      "playerWins": 19,
+      "bankerWins": 11,
+      "ties": 0,
+      "playerPairs": 2,
+      "bankerPairs": 0
+    },
+    "historyLength": 30
+  },
+  {
+    "id": "nmwdzhbg7hvqh6a7",
+    "name": "Speed Baccarat G",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 26,
+      "playerWins": 16,
+      "bankerWins": 8,
+      "ties": 2,
+      "playerPairs": 0,
+      "bankerPairs": 3
+    },
+    "historyLength": 26
+  },
+  {
+    "id": "tzx8vq1b6xqqq4gq",
+    "name": "Dynasty Speed Baccarat 17",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 25,
+      "playerWins": 10,
+      "bankerWins": 13,
+      "ties": 2,
+      "playerPairs": 2,
+      "bankerPairs": 2
+    },
+    "historyLength": 25
+  },
+  {
+    "id": "BonsaiBacc000002",
+    "name": "Bonsai Speed Baccarat B",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 28,
+      "playerWins": 14,
+      "bankerWins": 10,
+      "ties": 4,
+      "playerPairs": 1,
+      "bankerPairs": 4
+    },
+    "historyLength": 28
+  },
+  {
+    "id": "tzx7z0xq9mqqq4ri",
+    "name": "Dynasty Speed Baccarat 9",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 19,
+      "playerWins": 8,
+      "bankerWins": 9,
+      "ties": 2,
+      "playerPairs": 1,
+      "bankerPairs": 1
+    },
+    "historyLength": 19
+  },
+  {
+    "id": "ovu5cwp54ccmymck",
+    "name": "Speed Baccarat L",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 5,
+      "playerWins": 2,
+      "bankerWins": 3,
+      "ties": 0,
+      "playerPairs": 0,
+      "bankerPairs": 1
+    },
+    "historyLength": 5
+  },
+  {
+    "id": "ndgv45bghfuaaebf",
+    "name": "Speed Baccarat E",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 66,
+      "playerWins": 25,
+      "bankerWins": 32,
+      "ties": 9,
+      "playerPairs": 1,
+      "bankerPairs": 7
+    },
+    "historyLength": 66
+  },
+  {
+    "id": "o4kyj7tgpwqqy4m4",
+    "name": "Speed Baccarat Q",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 61,
+      "playerWins": 25,
+      "bankerWins": 29,
+      "ties": 7,
+      "playerPairs": 5,
+      "bankerPairs": 4
+    },
+    "historyLength": 61
+  },
+  {
+    "id": "PeryaSpeedBac007",
+    "name": "Dynasty Speed Baccarat 7",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 52,
+      "playerWins": 27,
+      "bankerWins": 22,
+      "ties": 3,
+      "playerPairs": 3,
+      "bankerPairs": 5
+    },
+    "historyLength": 52
+  },
+  {
+    "id": "tzxd9y6k1sqqqztk",
+    "name": "Dynasty Speed Baccarat 11",
+    "phase": "betsClosed",
+    "stats": {
+      "gameCount": 51,
+      "playerWins": 25,
+      "bankerWins": 22,
+      "ties": 4,
+      "playerPairs": 3,
+      "bankerPairs": 2
+    },
+    "historyLength": 51
+  },
+  {
+    "id": "tzxxj5p3r8qqqv1n",
+    "name": "Dynasty Speed Baccarat 14",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 40,
+      "playerWins": 26,
+      "bankerWins": 12,
+      "ties": 2,
+      "playerPairs": 2,
+      "bankerPairs": 3
+    },
+    "historyLength": 40
+  },
+  {
+    "id": "PeryaSpeedBac005",
+    "name": "Dynasty Speed Baccarat 5",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 34,
+      "playerWins": 12,
+      "bankerWins": 16,
+      "ties": 6,
+      "playerPairs": 1,
+      "bankerPairs": 4
+    },
+    "historyLength": 34
+  },
+  {
+    "id": "BonsaiBacc000003",
+    "name": "Bonsai Speed Baccarat C",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 32,
+      "playerWins": 12,
+      "bankerWins": 18,
+      "ties": 2,
+      "playerPairs": 1,
+      "bankerPairs": 5
+    },
+    "historyLength": 32
+  },
+  {
+    "id": "ndgvwvgthfuaad3q",
+    "name": "Speed Baccarat C",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 27,
+      "playerWins": 13,
+      "bankerWins": 12,
+      "ties": 2,
+      "playerPairs": 1,
+      "bankerPairs": 2
+    },
+    "historyLength": 27
+  },
+  {
+    "id": "tzxs8n2c0hqqq6am",
+    "name": "Dynasty Speed Baccarat 13",
+    "phase": "dealing",
+    "stats": {
+      "gameCount": 24,
+      "playerWins": 10,
+      "bankerWins": 11,
+      "ties": 3,
+      "playerPairs": 2,
+      "bankerPairs": 1
+    },
+    "historyLength": 24
+  },
+  {
+    "id": "tzxc3b8v2nqqq0pj",
+    "name": "Dynasty Speed Baccarat 10",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 19,
+      "playerWins": 5,
+      "bankerWins": 13,
+      "ties": 1,
+      "playerPairs": 3,
+      "bankerPairs": 0
+    },
+    "historyLength": 19
+  },
+  {
+    "id": "o4kylkahpwqqy57w",
+    "name": "Speed Baccarat R",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 19,
+      "playerWins": 9,
+      "bankerWins": 7,
+      "ties": 3,
+      "playerPairs": 1,
+      "bankerPairs": 3
+    },
+    "historyLength": 19
+  },
+  {
+    "id": "qgonc7t4ucdiel4o",
+    "name": "Speed Baccarat T",
+    "phase": "resolved",
+    "stats": {
+      "gameCount": 17,
+      "playerWins": 8,
+      "bankerWins": 8,
+      "ties": 1,
+      "playerPairs": 0,
+      "bankerPairs": 0
+    },
+    "historyLength": 17
+  },
+  {
+    "id": "60i0lcfx5wkkv3sy",
+    "name": "Baccarat B",
+    "phase": "betsOpen",
+    "stats": {
+      "gameCount": 10,
+      "playerWins": 6,
+      "bankerWins": 4,
+      "ties": 0,
+      "playerPairs": 0,
+      "bankerPairs": 1
+    },
+    "historyLength": 10
+  }
+]
